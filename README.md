@@ -1,6 +1,6 @@
-# Healthcare Lab SQL Analytics
+# Healthcare SQL Analytics
 
-A synthetic hospital lab database built to answer the kinds of questions lab and operations teams deal with every day. All data is made up.
+A synthetic hospital database built to answer the kinds of questions lab and operations teams deal with every day. All data is made up.
 
 ## Questions this will answer
 - How long tests take from order to result
